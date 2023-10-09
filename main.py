@@ -26,7 +26,7 @@ class ChatApplication:
 
         # head label
         head_label = Label(self.window, bg=HD_COLOR, fg=TEXT_COLOR,
-                           text="Welcome", font=FONT_BOLD, pady=10)
+                           text="Welcome to your safe space", font=FONT_BOLD, pady=10)
         head_label.place(relwidth=1)
 
         # tiny divider
